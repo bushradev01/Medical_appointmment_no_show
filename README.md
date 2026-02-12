@@ -122,28 +122,5 @@ Medical_appointment_no_show/
 - Matplotlib
 - Seaborn
 
----
 
-## ▶️ How to Run
-
-1. Download dataset from Kaggle.
-2. Place it in the project directory.
-3. Open `notebook.ipynb` in Google Colab or Jupyter.
-4. Run all cells sequentially.
-
----
-
-## 👩‍💻 Group Members
-
-- Abiha Nadeem (BSE-001-2023)  
-- Bushra Ashraf Bhatti (BSE-015-2023)  
-- Khadija Malik (BSE-030-2023)  
-
-Submitted to: Dr. Amir Arsalan  
-
----
-
-## 📌 Conclusion
-
-This project demonstrates the importance of systematic data preprocessing in machine learning. By building a robust preprocessing pipeline and evaluating multiple models, we identified Random Forest as the most effective approach for predicting patient no-shows. The project highlights real-world challenges such as missing data, outliers, and class imbalance in healthcare analytics.
 
